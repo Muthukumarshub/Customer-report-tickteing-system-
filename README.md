@@ -1,4 +1,4 @@
-# support desk system
+# Customer report ticketing system
 
 This is a mern stack support ticketing system
 
@@ -7,8 +7,6 @@ This is a mern stack support ticketing system
 - MongoDB
 - ReactJS
 - NodeJS-Express
-- Redux-Toolkit
-- React-Router
 
 ### How do I get set up?
 
@@ -34,5 +32,5 @@ JWT_SECRET=your jwt secret
 
 ### Who do I talk to?
 
-- Repo owner [https://www.raisanjmr.in](https://www.raisanjmr.in)
-- view live [https://support-desk-0azr.onrender.com](https://support-desk-0azr.onrender.com)
+- Repo owner https://about-muthu.web.app/
+
