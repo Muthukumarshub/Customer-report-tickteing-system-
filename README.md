@@ -43,5 +43,5 @@ This is a **Customer Report Ticketing System** built using the MERN stack (Mongo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/customer-ticketing-system.git
+   git clone https://github.com/Muthukumarshub/customer-ticketing-system.git
    cd customer-ticketing-system
